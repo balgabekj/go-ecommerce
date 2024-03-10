@@ -1,7 +1,5 @@
 # GO E-commerce App
 
-The Social Media API provides endpoints for managing users, posts, and comments in a social media platform.
-
 ## Database Schema
 
 ![Database Schema](dbScheme.png)
