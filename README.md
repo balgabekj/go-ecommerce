@@ -1,5 +1,5 @@
 # GO E-commerce App
-
+# Balgabek Zhaksylyk 22B030539
 ## Database Schema
 
 ![Database Schema](dbScheme.png)
